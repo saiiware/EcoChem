@@ -108,6 +108,4 @@ AI-powered insights
 Inspired by the global need for sustainable industrial practices and environmental awareness in chemistry.
 
 
-Or tailor it for resume/project submission 👍
-1 file upload left. Upgrade to Plus to unlock more
-Upgrade
+

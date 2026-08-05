@@ -1,17 +1,17 @@
-# 🌿 EcoChem — Green Chemistry Intelligence Platform
+# 🌿 EcoChem: Green Chemistry Intelligence Platform
 
 EcoChem is an interactive web-based platform designed to analyze industrial chemical reactions through the lens of green chemistry and sustainability. It enables users to explore reactions, evaluate environmental impact, and discover greener alternatives.
 
 ## 🚀 Features
 
-### 🔍 Smart Search System
+### 🔍 Search System
 - Search reactions by:
   - Chemical names
   - Industrial processes
   - Toxins
   - Industries
-- Real-time autocomplete suggestions
-- Relevance-based ranking (ML-style scoring)
+- Real time autocomplete suggestions
+- Relevance-based ranking
 
 ### 📊 Sustainability Dashboard
 - Key metrics:
@@ -24,12 +24,8 @@ EcoChem is an interactive web-based platform designed to analyze industrial chem
   - Risk heatmap
   - Green chemistry principles coverage
 
-### 🤖 AI Advisor
+### 🤖 AI 
 - Powered by Groq (LLaMA 3.3)
-- Ask questions like:
-  - Most toxic industrial reactions
-  - Green alternatives for processes
-  - Industry sustainability insights
 
 ### 🌱 Detailed Reaction Insights
 Each reaction includes:
@@ -55,15 +51,13 @@ The platform includes reactions from major industries:
 - 💻 Electronics & Semiconductors
 
 ## 🧠 Green Chemistry Integration
-EcoChem is based on the 12 Principles of Green Chemistry, such as:
+EcoChem is based on the 12 Principles of Green Chemistry, Each reaction is mapped to these principles for deeper analysis, such as:
 - Prevention of waste
 - Atom economy
 - Safer solvents
 - Energy efficiency
 - Renewable feedstocks
 - Catalysis
-
-Each reaction is mapped to these principles for deeper analysis.
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -76,12 +70,6 @@ Each reaction is mapped to these principles for deeper analysis.
 - `style.css` — Styling and theme
 - `script.js` — Core logic (search, dashboard, AI)
 - `data.js` — Industrial reactions dataset
-
-## ⚙️ How to Run
-1. Download or clone the project
-2. Open `index.html` in your browser
-
-> No backend required for core features.
 
 ## 🌍 Real-World Impact
 EcoChem helps:
@@ -97,11 +85,6 @@ EcoChem helps:
 - User accounts & saved analyses
 - Real-time environmental data integration
 
-## 👩‍💻 Contributers
-Developed by :
-- [saiiware](https://github.com/saiiware)
-- [ananya-shanbhag](https://github.com/ananya-shanbhag)
 
-## ⭐ Acknowledgement
-Inspired by the global need for sustainable industrial practices and environmental awareness in chemistry.
+
 

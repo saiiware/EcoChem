@@ -97,14 +97,11 @@ EcoChem helps:
 - User accounts & saved analyses
 - Real-time environmental data integration
 
-## 👩‍💻 Author
-Developed as a project to explore:
-- Green chemistry
-- Sustainability analytics
-- AI-powered insights
+## 👩‍💻 Contributers
+Developed by :
+- [saiiware](https://github.com/saiiware)
+- [ananya-shanbhag](https://github.com/ananya-shanbhag)
 
 ## ⭐ Acknowledgement
 Inspired by the global need for sustainable industrial practices and environmental awareness in chemistry.
-
-
 

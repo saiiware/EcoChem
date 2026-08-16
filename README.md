@@ -1,111 +1,67 @@
-🌿 EcoChem — Green Chemistry Intelligence Platform
+# 🌿 EcoChem — Green Chemistry Intelligence Platform
 
-EcoChem is an interactive web-based platform designed to analyze industrial chemical reactions through the lens of green chemistry and sustainability. It enables users to explore reactions, evaluate environmental impact, and discover greener alternatives.
+EcoChem is a web-based platform for analyzing industrial chemical reactions from a **green chemistry and sustainability** perspective. It allows users to explore reactions, evaluate their environmental impact, and discover greener alternatives.
 
-🚀 Features
-🔍 Smart Search System
-Search reactions by:
-Chemical names
-Industrial processes
-Toxins
-Industries
-Real-time autocomplete suggestions
-Relevance-based ranking (ML-style scoring)
-📊 Sustainability Dashboard
-Key metrics:
-Total reactions
-Critical risk processes
-Sustainability distribution
-Visual analytics:
-Green score by industry
-Toxin level distribution
-Risk heatmap
-Green chemistry principles coverage
-🤖 AI Advisor
-Powered by Groq (LLaMA 3.3)
-Ask questions like:
-Most toxic industrial reactions
-Green alternatives for processes
-Industry sustainability insights
-🌱 Detailed Reaction Insights
+## 🚀 Features
 
-Each reaction includes:
+* 🔍 **Smart Search** — Search reactions by chemical name, process, toxin, or industry with autocomplete and relevance-based ranking.
+* 📊 **Sustainability Dashboard** — Visualize green scores, toxin levels, industry-wise sustainability, risk levels, and Green Chemistry Principles.
+* 🤖 **AI Advisor** — Uses Groq's LLaMA 3.3 API to answer questions about chemical reactions and sustainability.
+* 🧪 **Reaction Analysis** — View reactants, products, conditions, toxin profiles, green scores, sustainability ratings, and greener alternatives.
 
-Reactants & products
-Chemical equation
-Industrial process
-Conditions
-Toxin profile
-Green score (1–10)
-Sustainability rating
-Real-world impact
-Green alternatives
-🧪 Dataset Coverage
+## 🏭 Industries Covered
 
-The platform includes reactions from major industries:
+* Petroleum & Petrochemicals
+* Textile & Dyeing
+* Steel & Metallurgy
+* Pharmaceuticals
+* Agrochemicals & Fertilizers
+* Plastics & Polymers
+* Mining & Minerals
+* Electronics & Semiconductors
 
-🛢 Petroleum & Petrochemicals
-🎨 Textile & Dyeing
-⚙️ Steel & Metallurgy
-💊 Pharmaceuticals
-🌾 Agrochemicals & Fertilizers
-♻️ Plastics & Polymers
-⛏ Mining & Minerals
-💻 Electronics & Semiconductors
-🧠 Green Chemistry Integration
+## 🧠 Green Chemistry
 
-EcoChem is based on the 12 Principles of Green Chemistry, such as:
+Reactions are evaluated using the **12 Principles of Green Chemistry**, including:
 
-Prevention of waste
-Atom economy
-Safer solvents
-Energy efficiency
-Renewable feedstocks
-Catalysis
+* Waste prevention
+* Atom economy
+* Safer solvents
+* Energy efficiency
+* Renewable feedstocks
+* Catalysis
 
-Each reaction is mapped to these principles for deeper analysis.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Styling: Custom CSS (green-themed UI)
-Data Handling: JavaScript dataset (data.js)
-AI Integration: Groq API (LLaMA 3.3)
-📂 Project Structure
+* **Frontend:** HTML, CSS, JavaScript
+* **Data:** JavaScript dataset
+* **AI:** Groq API — LLaMA 3.3
+
+## 📂 Project Structure
+
+```text
 EcoChem/
-│── index.html      # Main UI structure
-│── style.css       # Styling and theme
-│── script.js       # Core logic (search, dashboard, AI)
-│── data.js         # Industrial reactions dataset
-⚙️ How to Run
-Download or clone the project
-Open index.html in your browser
+├── index.html
+├── style.css
+├── script.js
+└── data.js
+```
 
-(No backend required for core features)
+## ⚙️ Run Locally
 
-🌍 Real-World Impact
+```bash
+git clone <repository-url>
+cd EcoChem
+```
 
-EcoChem helps:
+Open `index.html` in a browser.
 
-Understand industrial pollution sources
-Compare traditional vs green processes
-Promote sustainable chemical practices
-Support learning in green chemistry
-🔮 Future Improvements
-Backend integration for dynamic data
-Expanded dataset (more industries)
-Advanced AI recommendations
-User accounts & saved analyses
-Real-time environmental data integration
-👩‍💻 Author
+> No backend is required for the core application.
 
-Developed as a project to explore:
+## 🔮 Future Improvements
 
-Green chemistry
-Sustainability analytics
-AI-powered insights
-⭐ Acknowledgement
-
-Inspired by the global need for sustainable industrial practices and environmental awareness in chemistry.
-
-
-
+* Backend and database integration
+* Larger reaction dataset
+* Improved AI recommendations
+* User accounts and saved analyses
+* Real-time environmental data
